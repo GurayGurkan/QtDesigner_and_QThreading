@@ -21,4 +21,4 @@ and by subclassing a new main window object via
           self.setupUi(self)
 ...
 
-we initiate the class. This main window class should create the fonctionalaties of buttons and progress bars. 
+we initiate the class. This main window class should create the functionalaties of buttons and progress bars. 
