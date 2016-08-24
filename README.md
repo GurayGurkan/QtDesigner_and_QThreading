@@ -10,7 +10,7 @@
     
 3) After gui file is finished, a new file named "example_main.py" is created. 
 
-By the command 
+By the command: 
     import example_gui
     
 and by subclassing a new main window object via
